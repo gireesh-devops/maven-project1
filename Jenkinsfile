@@ -1,6 +1,6 @@
-pipeline {
+peline {
     agent any
-
+ddjjjlkjlhohnnm kjbkhbhkhbkjn n kjb khbjhbhjbhkbh
     stages {
         stage('Hello') {
             steps {
